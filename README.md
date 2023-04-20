@@ -1,4 +1,4 @@
-# Rotten_tomatoes_review_analysis
+# Sentimental Analysis : Rotten tomatoes review analysis
 
 This casestudy is basically for.
 
